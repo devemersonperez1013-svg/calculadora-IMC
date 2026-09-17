@@ -1,0 +1,40 @@
+.box-action {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#calc-btn {
+    padding: 10px;
+    border: none;
+    background-color: #276678;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+
+#calc-btn:hover {
+    background-color: #1b4855;
+}
+
+#back-btn {
+    padding: 10px;
+    border: none;
+    background-color: #D3E0EA;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #276678;
+    width: 100%;
+    cursor: pointer;
+    transition: 0.4s ease;
+}
+
+#back-btn:hover {
+    background-color: #e3f3ff;
+}

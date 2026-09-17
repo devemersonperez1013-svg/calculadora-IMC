@@ -1,0 +1,62 @@
+#result-container {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4.6px);
+    padding: 1.5rem;
+    font-family: "Roboto", sans-serif;
+    width: 400px;
+    max-width: 100%;
+    border: 1px solid #1687A7;
+}
+
+#imc-number,
+#imc-info,
+h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#imc-number {
+    font-size: 1.8rem;
+}
+
+#imc-info {
+    font-size: 1.2rem;
+}
+
+/* IMC Table */
+#imc-table {
+    text-align: center;
+    margin-bottom: 10px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#imc-table th,
+#imc-table td {
+    border-bottom: 1px solid #ccc;
+    padding: 8px 12px;
+
+}
+
+#imc-table tbody td {
+    padding: 5px;
+}
+
+/* Levels */
+.low {
+    color: #FFB900;
+}
+
+.good {
+    color: #2A7C13;
+}
+
+.medium {
+    color: #EF6905;
+}
+
+.high {
+    color: #D90000;
+}
