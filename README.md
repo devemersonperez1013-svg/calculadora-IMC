@@ -17,3 +17,4 @@ Esse projeto calcula a altura e o peso informado pelo usuário, e exibe os resul
 dev.Emerson, Estudante de ADS da UNINTER; Foco principal no Front-End.
 
 ## Endereço:
+https://devemersonperez1013-svg.github.io/calculadora-IMC/
